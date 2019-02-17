@@ -1,6 +1,28 @@
+# chat-frontend
+
+Simple React chat frontend demonstrating usage of basic React features and socket.io.
+
+This frontend is meant to be used together with [chat-backend](https://github.com/spahvenn/chat-backend)
+
+Tested with NodeJS 11 and Chrome.
+
+Initialization:
+```
+npm install
+```
+
+Run:
+```
+npm start
+```
+
+Application is served at port 3000.
+
+For react-router and redux demonstrations see: [webshop-react](https://github.com/spahvenn/webshop-react)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts (This section is auto-generated from Create React App)
 
 In the project directory, you can run:
 
