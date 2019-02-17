@@ -2,6 +2,8 @@
 
 Simple React chat frontend demonstrating usage of basic React features and socket.io.
 
+Future prototyping ideas include e.g. simple login feature, chat participant list, "user is typing" -feature, "user joins or leaves" -message. 
+
 This frontend is meant to be used together with [chat-backend](https://github.com/spahvenn/chat-backend)
 
 Tested with NodeJS 11 and Chrome.
