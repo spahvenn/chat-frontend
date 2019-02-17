@@ -2,7 +2,7 @@
 
 Simple React chat frontend demonstrating usage of basic React features and socket.io.
 
-Demonstration can be done by starting the backend and frontend, then opening two localhost:3000 tabs side by side to test the chat features. The tabs should have synchronized chat content. 
+Demonstration can be done by starting the backend and frontend, then opening two localhost:3000 tabs side by side to test the chat features. The tabs should have synchronized chat content. Refreshing or opening a new browser tab loads the message history from (mock) MongoDB. 
 
 Future prototyping ideas include e.g. simple login feature, chat participant list, "user is typing" -feature, "user joins or leaves" -message, more reliable chat history that no message is left undelivered in special cases. 
 
