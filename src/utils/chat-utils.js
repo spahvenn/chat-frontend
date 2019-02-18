@@ -6,6 +6,6 @@ export function createSocket() {
   return socket;
 }
 
-export async function getMessages() {
+export function getMessages() {
   return axios.get('http://localhost:3001/messages');
 }
